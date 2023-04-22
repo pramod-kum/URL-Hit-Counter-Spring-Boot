@@ -14,7 +14,7 @@
 * Encapsulation
 
 ## 📝Project Summary:-
-> I have created User Framework and language used.  In this I will see count of hit from url.
+> I have created URL Hit Counter using Spring Boot and I have used java Programming Language int this Project.  In this I will see count of User hit from url.
 Thank You❤️
 
 
